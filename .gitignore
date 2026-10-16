@@ -1,0 +1,10 @@
+# Lokalne, gotowe rozwiązania kolejnych lekcji
+/lesson[0-9]*/
+
+# Lokalne materiały kursu; repozytorium zawiera tylko szkielet etapu 0
+/README.md
+/PLAN-LEKCJI.md
+/WERYFIKACJA.md
+
+# Pliki systemowe
+.DS_Store
