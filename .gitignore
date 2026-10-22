@@ -1,5 +1,6 @@
 # Lokalne, gotowe rozwiązania kolejnych lekcji
 /lesson[0-9]*/
+/archiwum-lekcji/
 
 # Lokalne materiały kursu; repozytorium zawiera tylko szkielet etapu 0
 /README.md
