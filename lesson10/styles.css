@@ -1,0 +1,4 @@
+/* Bootstrap odpowiada za układ, odstępy, kolory i komponenty. */
+/* Natywny dialog wymaga jedynie ograniczenia szerokości i tła. */
+dialog { width: min(90vw, 28rem); }
+dialog::backdrop { background: rgb(0 0 0 / 40%); }
