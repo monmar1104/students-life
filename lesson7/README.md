@@ -6,7 +6,7 @@ To kompletna, działająca wersja **po lekcji 7**, zawierająca również rozwi�
 
 Samodzielnie dopisz przycisk usuwania ostatniej oceny i odświeżanie listy.
 
-Punktem wyjścia jest katalog lesson6. Uczeń pracuje na kopii poprzedniej wersji. Nie pokazuj gotowego rozwiązania z tego katalogu przed samodzielną próbą.
+Punktem wyjścia jest katalog lesson4. Uczeń pracuje na kopii poprzedniej wersji. Nie pokazuj gotowego rozwiązania z tego katalogu przed samodzielną próbą.
 
 ## Omówienie — 10–15 min
 
